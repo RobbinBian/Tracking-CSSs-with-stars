@@ -1,6 +1,6 @@
 # Tracking galaxy evolution with stars Pipeline for TNG50 Simulation
 
-This pipeline processes galaxy merger trees from the TNG50 cosmological simulation, focusing on star particle matching across snapshots to trace properties of central halos. The main HDF5 output files contain galaxy properties over time, enabling detailed analysis of star formation history, mass evolution, and chemical enrichment within the merger tree framework.
+This pipeline processes galaxy merger trees from the TNG50 cosmological simulation, focusing on star particle matching across snapshots to trace properties of targeted subhalos. The main HDF5 output files contain galaxy properties over time, enabling detailed analysis of star formation history, mass evolution, and chemical enrichment within the merger tree framework.
 
 ### Paths
 
